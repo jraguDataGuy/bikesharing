@@ -28,9 +28,9 @@ Our Male subscriber base helps our numbers during the work week
 
 ### Additional Vizualizations for Thought
 In an analysis of the New York territory, we did see the downtown area as our highest volume of start location. Given the tourist and worker co-demand, this was not much of a surprise:
-[Image](https://github.com/jraguDataGuy/bikesharing/blob/main/images/Bike%20by%20Starting%20Location.png)
+![Image](https://github.com/jraguDataGuy/bikesharing/blob/main/images/Bike%20by%20Starting%20Location.png)
 However, our subscriber base was less concentrated in the downtown areas. This seems like an opportunity to try to retain customers in this territory long term:
-[Image](https://github.com/jraguDataGuy/bikesharing/blob/main/images/Data%20by%20Customer%20Type.png)
+![Image](https://github.com/jraguDataGuy/bikesharing/blob/main/images/Data%20by%20Customer%20Type.png)
 
 ## Conclusion/Additional Analysis
 The model is prove in New York. We would need to look into a few more items/visualizations to help make conclusions for Des Moines:
